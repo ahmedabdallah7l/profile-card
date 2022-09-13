@@ -30,7 +30,7 @@ main
 }
 .header
 {
- background-image: url(./images/bg-pattern-card.svg);
+ background-image: url(../images/bg-pattern-card.svg);
  height: 8rem;
  width: inherit;
  border-top-right-radius:0.6rem ;
