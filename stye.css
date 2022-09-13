@@ -5,7 +5,7 @@
 }
 body
 {
- background-image: url(./profile-card-component-main/images/bg-pattern-top.svg),url(./profile-card-component-main/images/bg-pattern-bottom.svg);;
+ background-image: url(./images/bg-pattern-top.svg),url(./profile-card-component-main/images/bg-pattern-bottom.svg);;
  background-position: top 185% left -80%, bottom 225% right -70%;
  background-repeat: no-repeat, no-repeat;
  background-color: hsl(185, 75%, 39%);
